@@ -4,9 +4,11 @@ class  Sub{
 	
 		int a=10;
 		int b=20;
+		int c=30;
+
 		
-		int c= a-b;
-		System.out.println(c);
+		int d= a-b+c;
+		System.out.println(d);
 	}
 
 }
